@@ -1,1 +1,2 @@
 # my_home
+STM32F10X + BMP280 + TX433

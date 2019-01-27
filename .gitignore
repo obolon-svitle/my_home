@@ -1,0 +1,5 @@
+out/
+*.bin
+*.elf
+third_party/
+.directory
